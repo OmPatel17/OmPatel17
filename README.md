@@ -21,4 +21,4 @@ Currently building AI agents for FPGA and custom chip design at **Chipchop**.
 ## 📫 Reach Me
 
 - LinkedIn: [in/om-patel-28b4b4261](https://www.linkedin.com/in/om-patel-28b4b4261/)
-- Email: ompatel2193@gmail.com
+- Email: patel.o3@northeastern.edu

@@ -6,7 +6,7 @@ Currently building AI agents for FPGA and custom chip design at **Chipchop**.
 
 ## 🚀 What I'm Working On
 
-- **Chipchop** *(current)* — Building AI agent systems that automate FPGA and custom chip design workflows. *(LLMs, multi-agent orchestration)*
+- **{Fenway Health Intern]:** Building a centralized, vetted database of social services (food assistance, housing, legal aid, etc.) so every patient gets the same quality of resources no matter which staff member they see. Phase one is a staff tool for submitting, scoring, and managing resources against Fenway’s criteria system, and phase two adds a patient-facing needs assessment and search experience on top of that database. 
 - **[SKAAP](https://github.com/OmPatel17/SKAAP-Internship)** — A mobile-first food & cosmetics scanner that turns a barcode into an instant 0–100 health score with plain-English ingredient verdicts and healthier swaps. Ships to iOS, Android, and as a PWA. *(React 18, TypeScript, Capacitor, Supabase)*
 - **[Brain Tumor Segmentation](https://github.com/OmPatel17/Brain-Tumor-Segmentation-using-ML)** — Deep learning for medical imaging: a CNN/U-Net that detects and segments tumors in MRI scans. Presented as LISEF research. *(PyTorch, OpenCV)*
 - **[Brookhaven National Lab — sPHENIX](https://github.com/OmPatel17/BNL-Internship)** — Built an end-to-end deep learning pipeline for particle-detector calorimeter data, with distributed training on an HPC cluster, then deployed it into the detector's C++/ROOT framework. *(PyTorch, HTCondor, ROOT)*
